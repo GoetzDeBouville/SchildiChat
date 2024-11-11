@@ -1,3 +1,3 @@
-# SchildiChat Privacy Policy
+# Skryty Privacy Policy
 
-The SchildiChat Privacy Policy has been moved to [schildi.chat/android/privacy/](https://schildi.chat/android/privacy/).
+The Skryty Privacy Policy has been moved to [schildi.chat/android/privacy/](https://schildi.chat/android/privacy/).

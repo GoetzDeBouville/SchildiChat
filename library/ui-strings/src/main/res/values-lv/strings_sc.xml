@@ -4,7 +4,7 @@
     <string name="settings_notif_only_alert_once_summary">Neizdot brīdinājuma skaņas par jaunām ziņām, ja tai tērzēšanai jau ir paziņojums</string>
     <string name="settings_unimportant_counter_badge_summary_v2">Rāda apklusināto ziņu skaitu tērzēšanas pārskatā</string>
     <string name="settings_sc_debugging_category_visuals">Redzama atkļūdošanas informācija</string>
-    <string name="all_list_rooms_empty_title">SchildiChat</string>
+    <string name="all_list_rooms_empty_title">Skryty</string>
     <string name="settings_sc_dbg_read_receipts">Lasīšanas atskaišu atkļūdošana</string>
     <string name="all_list_rooms_empty_body">Šeit tiks parādītas tērzēšanas</string>
     <string name="settings_read_receipt_follows_read_marker">Atzīmēt tērzēšanas kā lasītas tikai tad, kad tās ir pilnībā izlasītas</string>
@@ -59,7 +59,7 @@
     <string name="labs_mark_rooms_unread_summary">Ļaut atzīmēt tērzēšanas kā nelasītas. Citi Matrix klienti šo iespēju vēl var nenodrošināt.</string>
     <string name="url_previews_in_encrypted_rooms">URL priekšskatījums šifrētās tērzēšanās</string>
     <string name="url_previews_in_encrypted_rooms_summary">Šis atklās ziņās esošos URL serverim.</string>
-    <string name="login_mobile_device_sc">SchildiChat Android</string>
+    <string name="login_mobile_device_sc">Skryty Android</string>
     <string name="bottom_action_all">Pārskats</string>
     <string name="login_connect_using_matrix_id_text_sc">piem., @user:domain.com</string>
     <string name="show_participants_sc">Dalībnieki</string>
@@ -180,5 +180,5 @@
     <string name="settings_enable_space_pager_summary">Ļaut pārslēgties starp pamata vietām ar gulenisku pavilkšanu tērzēšanu sarakstā</string>
     <string name="settings_space_pager_prefer_space_1">Dot priekšroku zemākai pamata vietai</string>
     <string name="settings_space_pager_prefer_space_1_summary">Rādīt vietas apakšējā vietu joslā, kuras ir pārvietotas uz pamata vietu saraksta augšgalu</string>
-    <string name="settings_integrations_scalar_warning">⚠️ Šis iestatījums pēc noklusējuma (ja vien serverī nav norādīts citādi) iespējo piekļuvi \"scalar\", Element iekļaušanas pārvaldniekam, kam, diemžēl, ir slēgts kods, tas ir, tā pirmkods nav atvērts un cilvēki vai SchildiChat izstrādātāji nevar to pārbaudīt.</string>
+    <string name="settings_integrations_scalar_warning">⚠️ Šis iestatījums pēc noklusējuma (ja vien serverī nav norādīts citādi) iespējo piekļuvi \"scalar\", Element iekļaušanas pārvaldniekam, kam, diemžēl, ir slēgts kods, tas ir, tā pirmkods nav atvērts un cilvēki vai Skryty izstrādātāji nevar to pārbaudīt.</string>
 </resources>

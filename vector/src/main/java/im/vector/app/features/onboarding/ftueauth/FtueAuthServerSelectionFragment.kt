@@ -53,7 +53,7 @@ class FtueAuthServerSelectionFragment :
         views.loginServerChoiceEmsLearnMore.setOnClickListener { learnMore() }
         views.loginServerChoiceMatrixOrg.setOnClickListener { selectMatrixOrg() }
         views.loginServerChoiceEms.setOnClickListener { selectEMS() }
-        views.loginServerChoiceOther.setOnClickListener { selectOther() }
+        views.loginServerChoiceOther.setOnClickListener { selectOther() } // !!!
         views.loginServerIKnowMyIdSubmit.setOnClickListener { loginWithMatrixId() }
     }
 

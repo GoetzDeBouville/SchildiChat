@@ -38,9 +38,9 @@
     <string name="labs_mark_rooms_unread_summary">Umožňuje označit chaty jako nepřečtené. Jiní klienti Matrixu to zatím nemusí podporovat.</string>
     <string name="url_previews_in_encrypted_rooms">Náhledy URL v šifrovaných chatech</string>
     <string name="url_previews_in_encrypted_rooms_summary">URL adresy z vašich šifrovaných zpráv budou viditelné pro váš homeserver!</string>
-    <string name="login_mobile_device_sc">SchildiChat Android</string>
+    <string name="login_mobile_device_sc">Skryty Android</string>
     <string name="bottom_action_all">Přehled</string>
-    <string name="all_list_rooms_empty_title">SchildiChat</string>
+    <string name="all_list_rooms_empty_title">Skryty</string>
     <string name="all_list_rooms_empty_body">Chaty se zobrazí zde</string>
     <!-- Login screen -->
     <string name="login_connect_using_matrix_id_text_sc">např. @uživatel:doména.com</string>
@@ -180,7 +180,7 @@
     <string name="settings_clear_highlight_on_scroll">Vymazat zvýraznění při posouvání</string>
     <string name="settings_clear_highlight_on_scroll_summary">Odstranit zvýraznění zpráv při posouvání</string>
     <string name="settings_call_ringtone_use_default_stun_title">Povolit asistenční server pro zpětné volání</string>
-    <string name="settings_integrations_scalar_warning">⚠️ Toto nastavení ve výchozím stavu (pokud není přepsáno v konfiguraci vašeho domovského serveru) umožňuje přístup ke \"scalaru\", integračnímu manažeru Elementu, který je bohužel proprietární, tj. jeho zdrojový kód není otevřený a nemůže být kontrolován veřejností ani vývojáři SchildiChatu.</string>
+    <string name="settings_integrations_scalar_warning">⚠️ Toto nastavení ve výchozím stavu (pokud není přepsáno v konfiguraci vašeho domovského serveru) umožňuje přístup ke \"scalaru\", integračnímu manažeru Elementu, který je bohužel proprietární, tj. jeho zdrojový kód není otevřený a nemůže být kontrolován veřejností ani vývojáři Skryty.</string>
     <string name="settings_space_pager_prefer_space_1_summary">Upřednostnit zobrazení prostorů ve spodním pruhu, které jste přesunuli na začátek seznamu kořenových prostorů</string>
     <string name="settings_space_pager_prefer_space_1">Upřednostnit spodní kořenový prostor</string>
 </resources>

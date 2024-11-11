@@ -4,7 +4,7 @@ Here you can find some extra features and changes compared to Element Android (w
 
 - Different (optional) styles for message bubbles, with selectable corner radius and optional tail
 - Optional unified chat list instead of dividing group chats and direct messages
-- SchildiChat light, dark and black themes with multiple choices for accent colors
+- Skryty light, dark and black themes with multiple choices for accent colors
 - Possibility to color usernames by power level, allowing for different settings depending on whether it's a public chat, a group chat or a direct chat
 - Possibility to select themes for both light and dark system mode individually
 - "Easy mode" which disables public room functionality

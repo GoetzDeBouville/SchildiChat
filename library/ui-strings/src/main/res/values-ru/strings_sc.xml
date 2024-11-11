@@ -18,9 +18,9 @@
     <string name="bubble_style_none">Нет</string>
     <string name="bubble_style_start">На той же стороне</string>
     <string name="bubble_style_both">С обеих сторон</string>
-    <string name="login_mobile_device_sc">SchildiChat Android</string>
+    <string name="login_mobile_device_sc">Skryty Android</string>
     <string name="bottom_action_all">Обзор</string>
-    <string name="all_list_rooms_empty_title">SchildiChat</string>
+    <string name="all_list_rooms_empty_title">Skryty</string>
     <string name="all_list_rooms_empty_body">Здесь будут отображаться чаты</string>
     <!-- Login screen -->
     <string name="login_connect_using_matrix_id_text_sc">например @user:domain.com</string>
@@ -179,5 +179,5 @@
     <string name="settings_call_ringtone_use_default_stun_summary">Использовать %s как вспомогательный сервер, если домашний сервер не поддерживает звонки (ваш IP адрес будет доступен TURN серверу)</string>
     <string name="settings_clear_highlight_on_scroll">Очистить выделение при прокрутке</string>
     <string name="settings_call_ringtone_use_default_stun_title">Разрешить резервный сервер звонков</string>
-    <string name="settings_integrations_scalar_warning">⚠️ Эта настройка по умолчанию (если не изменена конфигурацией Вашего домашнего сервера) включает доступ к \"Scalar\", менеджеру интеграций от Element. К сожалению, он является проприетарным, т.е. его исходый код не открытый и не может быть проверен пользователями или разработчиками SchildiChat.</string>
+    <string name="settings_integrations_scalar_warning">⚠️ Эта настройка по умолчанию (если не изменена конфигурацией Вашего домашнего сервера) включает доступ к \"Scalar\", менеджеру интеграций от Element. К сожалению, он является проприетарным, т.е. его исходый код не открытый и не может быть проверен пользователями или разработчиками Skryty.</string>
 </resources>

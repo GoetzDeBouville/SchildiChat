@@ -99,8 +99,8 @@
     <string name="bubble_rounded_corners_default">Mặc định</string>
     <string name="bubble_rounded_corners_r1">Viền tròn</string>
     <string name="bubble_rounded_corners_r2">Tròn hơn</string>
-    <string name="login_mobile_device_sc">SchildiChat cho Android</string>
-    <string name="all_list_rooms_empty_title">SchildiChat</string>
+    <string name="login_mobile_device_sc">Skryty cho Android</string>
+    <string name="all_list_rooms_empty_title">Skryty</string>
     <string name="custom_emotes_named_other_room">\"%1$s\" từ %2$s</string>
     <string name="settings_hide_call_buttons">Ẩn nút gọi</string>
     <string name="room_settings_default">Mặc định</string>

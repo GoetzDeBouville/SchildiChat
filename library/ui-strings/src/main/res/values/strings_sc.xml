@@ -64,9 +64,9 @@
     <string name="url_previews_in_encrypted_rooms">URL previews in encrypted chats</string>
     <string name="url_previews_in_encrypted_rooms_summary">This will leak URLs from your messages to your homeserver!</string>
 
-    <string name="login_mobile_device_sc">SchildiChat Android</string>
+    <string name="login_mobile_device_sc">Skryty chat Android</string>
     <string name="bottom_action_all">Overview</string>
-    <string name="all_list_rooms_empty_title">SchildiChat</string>
+    <string name="all_list_rooms_empty_title">Skryty</string>
     <string name="all_list_rooms_empty_body">Chats will be displayed here</string>
 
     <!-- Login screen -->
@@ -239,6 +239,6 @@
     <string name="settings_call_ringtone_use_default_stun_summary">Will use %s as assist when your homeserver does not offer one (your IP address will be seen by the stun server during a call
 )</string>
 
-    <string name="settings_integrations_scalar_warning">⚠️ This setting by default (unless overridden by your homeserver\'s configuration) enables access to \"scalar\", Element\'s integration manager which is unfortunately proprietary, i.e. its source code is not open and can not be checked by the public or the SchildiChat developers.</string>
+    <string name="settings_integrations_scalar_warning">⚠️ This setting by default (unless overridden by your homeserver\'s configuration) enables access to \"scalar\", Element\'s integration manager which is unfortunately proprietary, i.e. its source code is not open and can not be checked by the public or the Skryty developers.</string>
 
 </resources>

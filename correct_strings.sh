@@ -17,20 +17,20 @@ fi
 mydir="."
 stringdir="$mydir/library/ui-strings/src/main/res"
 
-# Element -> SchildiChat
+# Element -> Skryty
 find "$stringdir" -name strings.xml -exec \
-    sed -i 's|Element|SchildiChat|g' '{}' \;
+    sed -i 's|Element|Skryty|g' '{}' \;
 # Restore Element where it makes sense
 find "$stringdir" -name strings.xml -exec \
-    sed -i 's/SchildiChat \(Web\|iOS\|Desktop\)/Element \1/g' '{}' \;
+    sed -i 's/Skryty \(Web\|iOS\|Desktop\)/Element \1/g' '{}' \;
 find "$stringdir" -name strings.xml -exec \
-    sed -i 's|SchildiChat Matrix Services|Element Matrix Services|g' '{}' \;
+    sed -i 's|Skryty Matrix Services|Element Matrix Services|g' '{}' \;
 find "$stringdir" -name strings.xml -exec \
-    sed -i 's|\("use_latest_riot">.*\)SchildiChat\(.*</string>\)|\1Element\2|g' '{}' \;
+    sed -i 's|\("use_latest_riot">.*\)Skryty\(.*</string>\)|\1Element\2|g' '{}' \;
 find "$stringdir" -name strings.xml -exec \
-    sed -i 's|\("use_other_session_content_description">.*\)SchildiChat\(.*SchildiChat.*</string>\)|\1SchildiChat/Element\2|' '{}' \;
+    sed -i 's|\("use_other_session_content_description">.*\)Skryty\(.*Skryty.*</string>\)|\Skryty/Element\2|' '{}' \;
 find "$stringdir" -name strings.xml -exec \
-    sed -i 's/SchildiChat\( \|-\)Call/Element\1Call/g' '{}' \;
+    sed -i 's/Skryty\( \|-\)Call/Element\1Call/g' '{}' \;
 
 unpatched_strings_file=.tmp_unpatched_strings
 new_patched_strings_file=.tmp_new_patched_strings
@@ -69,7 +69,7 @@ fi
 rm -rf "$mydir/vector/src/main/play/listings"
 
 git add -A
-git commit -m "Automatic SchildiChat string correction"
+git commit -m "Automatic Skryty string correction"
 
 popd > /dev/null
 

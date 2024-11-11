@@ -26,9 +26,9 @@
     <string name="settings_aggregate_unread_counts">Hitung chat daripada pesan</string>
     <string name="labs_mark_rooms_unread">Tandai chat sebagai belum dibaca</string>
     <string name="labs_mark_rooms_unread_summary">Izinkan menandai chat sebagai belum dibaca. Client Matrix lainnya mungkin belum mendukung ini.</string>
-    <string name="login_mobile_device_sc">SchildiChat Android</string>
+    <string name="login_mobile_device_sc">Skryty Android</string>
     <string name="bottom_action_all">Ikhtisar</string>
-    <string name="all_list_rooms_empty_title">SchildiChat</string>
+    <string name="all_list_rooms_empty_title">Skryty</string>
     <string name="all_list_rooms_empty_body">Chat akan ditampilkan di sini</string>
     <string name="login_connect_using_matrix_id_text_sc">mis. @pengguna:domain.com</string>
     <string name="login_server_other_title_sc">Server kustom</string>
@@ -178,7 +178,7 @@
     <string name="settings_call_ringtone_use_default_stun_summary">Akan menggunakan %s sebagai pembantu ketika homeserver Anda tidak menawarkan (alamat IP Anda akan terlihat oleh server STUN selama panggilan berlangsung)</string>
     <string name="settings_clear_highlight_on_scroll">Hapus sorotan saat menggulir</string>
     <string name="settings_call_ringtone_use_default_stun_title">Perbolehkan server panggilan bantuan cadangan</string>
-    <string name="settings_integrations_scalar_warning">⚠️ Pengaturan ini mengaktifkan akses ke \"scalar\" (kecuali jika ditimpa oleh konfigurasi homeserver Anda), yaitu pengelola integrasi Element yang sayangnya bersifat tertutup, kode sumbernya tidak bersumber terbuka dan tidak dapat diperiksa oleh umum atau para pengembang SchildiChat.</string>
+    <string name="settings_integrations_scalar_warning">⚠️ Pengaturan ini mengaktifkan akses ke \"scalar\" (kecuali jika ditimpa oleh konfigurasi homeserver Anda), yaitu pengelola integrasi Element yang sayangnya bersifat tertutup, kode sumbernya tidak bersumber terbuka dan tidak dapat diperiksa oleh umum atau para pengembang Skryty.</string>
     <string name="settings_space_pager_prefer_space_1">Lebih suka space akar bawah</string>
     <string name="settings_space_pager_prefer_space_1_summary">Prioritaskan menampilkan space dalam bilah space bawah yang Anda pindahkan ke atas daftar space akar Anda</string>
 </resources>

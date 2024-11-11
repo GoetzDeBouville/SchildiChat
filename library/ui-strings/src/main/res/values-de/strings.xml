@@ -1125,7 +1125,7 @@
     <string name="room_join_rules_invite">%1$s hat den Raum auf \"nur-einladen\" gestellt.</string>
     <string name="login_splash_title">Es ist deine Konversation. Mache sie dir zu eigen.</string>
     <string name="login_server_url_form_modular_text">Premium-Hosting für Organisationen</string>
-    <string name="login_server_url_form_modular_notice">Gib die Adresse des Modular SchildiChat oder Servers ein, den du verwenden möchtest</string>
+    <string name="login_server_url_form_modular_notice">Gib die Adresse des Modular Skryty oder Servers ein, den du verwenden möchtest</string>
     <string name="login_mode_not_supported">Die Anwendung kann sich nicht bei diesem Heim-Server anmelden. Der Heim-Server unterstützt die folgenden Anmeldemöglichkeiten: %1$s.
 \n
 \nMöchtest du dich mit einer Web-Anwendung anmelden\?</string>
@@ -1595,7 +1595,7 @@
     <string name="crypto_error_withheld_unverified">Du kannst auf diese Nachricht nicht zugreifen, weil der Sender deiner Sitzung nicht vertraut</string>
     <string name="crypto_error_withheld_generic">Du kannst auf diese Nachricht nicht zugreifen, weil der Sender absichtlich die Schlüssel nicht gesendet hat</string>
     <string name="notice_crypto_unable_to_decrypt_merged">Warte auf Verschlüsselungshistorie</string>
-    <string name="disclaimer_title">Riot heißt nun SchildiChat!</string>
+    <string name="disclaimer_title">Riot heißt nun Skryty!</string>
     <string name="disclaimer_content">Wir sind begeistert unsere Namensänderung mitteilen zu können! Deine App ist auf dem neusten Stand und du bist mit deinem Account angemeldet.</string>
     <string name="disclaimer_negative_button">VERSTANDEN</string>
     <string name="disclaimer_positive_button">MEHR ERFAHREN</string>
@@ -2696,7 +2696,7 @@
     <string name="device_manager_verification_status_detail_other_session_verified">Diese Sitzung ist für sichere Kommunikation bereit.</string>
     <string name="a11y_device_manager_device_type_desktop">Desktop</string>
     <string name="invites_empty_message">Hier erscheinen deine neuen Anfragen und Einladungen.</string>
-    <string name="labs_enable_new_app_layout_summary">Ein vereinfachtes SchildiChat mit optionalen Tabs</string>
+    <string name="labs_enable_new_app_layout_summary">Ein vereinfachtes Skryty mit optionalen Tabs</string>
     <string name="labs_enable_new_app_layout_title">Neues Layout aktivieren</string>
     <string name="device_manager_session_details_session_last_activity">Neueste Aktivität</string>
     <string name="device_manager_session_last_activity">Neueste Aktivität %1$s</string>
@@ -2837,7 +2837,7 @@
     <string name="error_voice_broadcast_blocked_by_someone_else_message">Jemand anderes nimmt bereits eine Sprachübertragung auf. Warte auf das Ende der Übertragung, bevor du eine neue startest.</string>
     <string name="a11y_voice_broadcast_fast_forward">30 Sekunden vorspulen</string>
     <string name="a11y_voice_broadcast_fast_backward">30 Sekunden zurückspulen</string>
-    <string name="device_manager_learn_more_sessions_verified_description">Auf verifizierte Sitzungen kannst du überall mit deinem Konto zugreifen, wenn du deine Passphrase eingegeben oder SchildiChat mit einer anderen Sitzung verifiziert hast.
+    <string name="device_manager_learn_more_sessions_verified_description">Auf verifizierte Sitzungen kannst du überall mit deinem Konto zugreifen, wenn du deine Passphrase eingegeben oder Skryty mit einer anderen Sitzung verifiziert hast.
 \n
 \nDies bedeutet, dass du alle Schlüssel zum Entsperren deiner verschlüsselten Nachrichten hast und anderen bestätigst, dieser Sitzung zu vertrauen.</string>
     <plurals name="device_manager_other_sessions_multi_signout_all">

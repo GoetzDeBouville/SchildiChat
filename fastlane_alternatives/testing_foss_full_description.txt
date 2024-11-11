@@ -1,1 +1,1 @@
-SchildiChat test release, FOSS variant without proprietary push notifications
+Skryty test release, FOSS variant without proprietary push notifications

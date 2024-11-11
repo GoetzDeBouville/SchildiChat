@@ -1,1 +1,1 @@
-Variant of SchildiChat with proprietary (Google) push notifications
+Variant of Skryty with proprietary (Google) push notifications

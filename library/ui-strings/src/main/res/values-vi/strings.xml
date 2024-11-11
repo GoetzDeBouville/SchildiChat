@@ -318,7 +318,7 @@
     <string name="disclaimer_positive_button">TÌM HIỂU THÊM</string>
     <string name="disclaimer_negative_button">HIỂU RỒI</string>
     <string name="disclaimer_content">Chúng tôi rất háo hức muốn tuyên bố rằng chúng tôi đã đổi tên! Ứng dụng của bạn đã được cập nhật và bạn đã đăng nhập vào tài khoản của bạn.</string>
-    <string name="disclaimer_title">Riot bây giờ là SchildiChat!</string>
+    <string name="disclaimer_title">Riot bây giờ là Skryty!</string>
     <string name="notice_crypto_unable_to_decrypt_merged">Đang đợi lịch sử mã hoá</string>
     <string name="crypto_error_withheld_generic">Bạn không thể truy cập tin nhắn này vì người gửi đã cố tình không gửi các mã khoá</string>
     <string name="crypto_error_withheld_unverified">Bạn không thể truy cập tin nhắn này vì phiên làm việc của bạn không được người gửi tin cậy</string>
@@ -884,7 +884,7 @@
     <string name="login_terms_title">Chấp nhận điều khoản để tiếp tục</string>
     <string name="login_a11y_captcha_container">Hãy thực hiện thách thức captcha</string>
     <string name="login_a11y_choose_other">Chọn một máy chủ khác</string>
-    <string name="login_a11y_choose_modular">Chọn Dịch vụ SchildiChat Matrix</string>
+    <string name="login_a11y_choose_modular">Chọn Dịch vụ Skryty Matrix</string>
     <string name="login_a11y_choose_matrix_org">Chọn matrix.org</string>
     <string name="login_signup_cancel_confirmation_content">Tài khoản của bạn chưa được tạo. Bạn muốn ngừng tiến trình đăng ký\?</string>
     <string name="login_signup_cancel_confirmation_title">Cảnh báo</string>

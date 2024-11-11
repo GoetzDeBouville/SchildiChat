@@ -92,7 +92,7 @@ class FtueAuthSplashCarouselFragment :
         }
 
         if (buildMeta.isDebug || vectorPreferences.developerMode()) {
-            views.loginSplashVersion.isVisible = true
+//            views.loginSplashVersion.isVisible = false
             @SuppressLint("SetTextI18n")
             views.loginSplashVersion.text = "Version : ${buildMeta.versionName}\n" +
                     "Branch: ${buildMeta.gitBranchName} ${buildMeta.gitRevision}"

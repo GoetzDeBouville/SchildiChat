@@ -36,7 +36,7 @@
     <string name="in_reply_to_error">Malsukcesis ŝargi responditan mesaĝon</string>
     <string name="settings_force_allow_background_sync">Permesi fonan sinkronigon krom puŝo</string>
     <string name="settings_notif_only_alert_once">Atenti nur unufoje</string>
-    <string name="all_list_rooms_empty_title">SchildiChat</string>
+    <string name="all_list_rooms_empty_title">Skryty</string>
     <string name="bottom_action_all">Superrigardo</string>
     <string name="settings_notif_only_alert_once_summary">Forlasi atentajn sonojn por novaj mesaĝoj se jam estas malfermita sciigo por tiu babilejo</string>
     <string name="settings_read_receipt_follows_read_marker_summary">Ne ĝisdatigi vian legokonfirmon kiam vi malfermas la ĉambron, sed nur iom post iom dum legado</string>
@@ -111,7 +111,7 @@
     <string name="prompt_simplified_mode_off_text">Mi serĉas plenan funkciecon, inkluzive de malkovro de publikaj ĉambroj kaj fajngrajnaj ĉambroj kaj ĉifradaj agordoj.</string>
     <string name="settings_enable_member_name_click_summary">Alklaki uzantnomon por mencii ilin</string>
     <string name="sc_dark_colored_theme">SC Malhela, koloraj bobeloj</string>
-    <string name="login_mobile_device_sc">SchildiChat Android</string>
+    <string name="login_mobile_device_sc">Skryty Android</string>
     <string name="custom_emotes_other_room">Emoĵioj el %1$s</string>
     <string name="normal_priority_header">Normala prioritato</string>
     <string name="settings_room_unread_kind_dm">Rekta babilejo antaŭrigardo enhavo</string>
@@ -123,7 +123,7 @@
     <string name="sc_accent_lava">Lafa</string>
     <string name="bubble_style">Mesaĝaj bobeloj</string>
     <string name="settings_jump_to_bottom_on_send_summary">Aŭtomate rulumu malsupren kiam vi sendas mesaĝon</string>
-    <string name="settings_integrations_scalar_warning">⚠️ Ĉi tiu agordo defaŭlte (krom se anstataŭita de la agordo de via hejmservilo) ebligas aliron al «skala», la integriga administranto de Element, kiu bedaŭrinde estas proprieta, t.e. ĝia fontkodo ne estas malfermita kaj ne povas esti kontrolita de la publiko aŭ la programistoj de SchildiChat.</string>
+    <string name="settings_integrations_scalar_warning">⚠️ Ĉi tiu agordo defaŭlte (krom se anstataŭita de la agordo de via hejmservilo) ebligas aliron al «skala», la integriga administranto de Element, kiu bedaŭrinde estas proprieta, t.e. ĝia fontkodo ne estas malfermita kaj ne povas esti kontrolita de la publiko aŭ la programistoj de Skryty.</string>
     <string name="user_colors_uniform">Unuforma</string>
     <string name="setting_sc_accent_color_dark">Akcenta koloro por malhelaj haŭtoj</string>
     <string name="sc_accent_bluelight">Helblua</string>

@@ -5,7 +5,14 @@ sourceCompatibility = versions.sourceCompat
 targetCompatibility = versions.sourceCompat
 
 dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib"
     implementation 'com.squareup:javapoet:1.13.0'
+}
+
+compileKotlin {
+    kotlinOptions {
+        jvmTarget = versions.jvmTarget
+    }
 }
 
 task javadocJar(type: Jar, dependsOn: 'javadoc') {

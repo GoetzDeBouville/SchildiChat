@@ -15,7 +15,7 @@ if ((replace_name)); then
     name_replace="$2"
 else
     name_add="$2"
-    name_replace="SchildiChat.$name_add"
+    name_replace="Skryty.$name_add"
 fi
 
 source "$mydir/merge_helpers.sh"
@@ -98,9 +98,9 @@ case "$package_add" in
     ;;
 esac
 
-sed -i "s|\"SchildiChat|\"$name_replace|g" "$build_gradle"
+sed -i "s|\"Skryty|\"$name_replace|g" "$build_gradle"
 sed -i "s|de.spiritcroc.riotx|de.spiritcroc.riotx.$package_add|g" "$build_gradle" `find "$app_src_dir" -name google-services.json` `find "$src_dir" -name shortcuts.xml`
-sed -i "s|SchildiChat|$name_replace|g" `find "$fastlane_dir/metadata/android" -name "title.txt"`
+sed -i "s|Skryty|$name_replace|g" `find "$fastlane_dir/metadata/android" -name "title.txt"`
 
 
 if [ "$package_add" = "testing.foss" ]; then

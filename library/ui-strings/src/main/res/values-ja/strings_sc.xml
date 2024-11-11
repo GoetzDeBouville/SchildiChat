@@ -20,8 +20,8 @@
     <string name="settings_room_unread_kind_group">グループチャットでプレビューする内容</string>
     <string name="sc_light_theme">SCライト</string>
     <string name="bubble_style_element">Element</string>
-    <string name="login_mobile_device_sc">SchildiChat Android</string>
-    <string name="all_list_rooms_empty_title">SchildiChat</string>
+    <string name="login_mobile_device_sc">Skryty Android</string>
+    <string name="all_list_rooms_empty_title">Skryty</string>
     <string name="show_room_info_sc">ルームの詳細</string>
     <string name="show_participants_sc">参加者</string>
     <string name="bubble_style_none">なし</string>
@@ -172,7 +172,7 @@
     <string name="use_other_session_content_description_sc">他の端末で最新の${app_name_sc_stable}や${app_name_sc_stable} Web、${app_name_sc_stable} Desktop、${app_name_sc_stable} Android、また他のクロス署名に対応したMatrixのクライアントを使いましょう</string>
     <string name="use_latest_app_sc">最新の${app_name_sc_stable}を他の端末でも使いましょう：</string>
     <string name="settings_call_ringtone_use_default_stun_summary">あなたのホームサーバーがアシストサーバーを提供していない場合に%sを使用（あなたのIPアドレスが通話中にSTUNサーバーに通知されます)</string>
-    <string name="settings_integrations_scalar_warning">⚠️ この設定は、既定で（あなたのホームサーバーの設定によって上書きされていない限り）Elementのインテグレーションマネージャーの\"scalar\"を有効にします。このインテグレーションマネージャーは、プロプライエタリーでソースコードが公開されていないため、第三者またはSchildiChatの開発者によってチェックすることができない仕組みになっています。</string>
+    <string name="settings_integrations_scalar_warning">⚠️ この設定は、既定で（あなたのホームサーバーの設定によって上書きされていない限り）Elementのインテグレーションマネージャーの\"scalar\"を有効にします。このインテグレーションマネージャーは、プロプライエタリーでソースコードが公開されていないため、第三者またはSkrytyの開発者によってチェックすることができない仕組みになっています。</string>
     <string name="prompt_simplified_mode_off_text">公開ルームの検索機能、ルームや暗号化の詳細な設定を含む、全ての機能を使用する予定。</string>
     <string name="prompt_simplified_mode_on_text">知っている連絡先とだけチャットする予定。また、他の設定は複雑でよく分からない。</string>
     <string name="settings_unread_counter">未読数のカウンター</string>
