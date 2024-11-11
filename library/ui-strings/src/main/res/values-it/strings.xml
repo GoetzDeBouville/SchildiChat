@@ -1065,7 +1065,7 @@
     <string name="login_server_matrix_org_text">Unisciti gratuitamente a milioni di utenti sul più grande server pubblico</string>
     <string name="login_server_modular_text">Hosting premium per organizzazioni</string>
     <string name="login_server_modular_learn_more">Maggiori info</string>
-    <string name="login_server_other_title">Altro</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_other_text">Impostazioni personalizzate ed avanzate</string>
     <string name="login_continue">Continua</string>
     <string name="login_connect_to">Connetti a %1$s</string>

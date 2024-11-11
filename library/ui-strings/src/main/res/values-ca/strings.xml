@@ -1222,7 +1222,7 @@
     <string name="login_social_signup_with">Registra\'t amb %s</string>
     <string name="login_social_continue_with">Continua amb %s</string>
     <string name="login_social_continue">O</string>
-    <string name="login_server_other_title">Altres</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_modular_learn_more">Saber-ne més</string>
     <string name="login_server_modular_text">Allotjament de primera classe per a organitzacions</string>
     <string name="login_server_matrix_org_text">Uneix-te amb milions de persones dins el servidor públic gratuït més gran</string>

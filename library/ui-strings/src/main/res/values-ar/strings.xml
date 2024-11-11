@@ -895,7 +895,7 @@
     <string name="login_social_signin_with">لِج عبر %s</string>
     <string name="login_social_signup_with">سجل في %s</string>
     <string name="login_social_continue_with">تابع بـ %s</string>
-    <string name="login_server_other_title">أخرى</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_matrix_org_text">انضم لأكبر خادم علني مجانًا</string>
     <string name="login_server_text">مثل البريد الالكتروني لن تحتاج سوى لحساب واحد للتواصل مع الجميع</string>
     <string name="login_server_title">اختر خادمًا</string>

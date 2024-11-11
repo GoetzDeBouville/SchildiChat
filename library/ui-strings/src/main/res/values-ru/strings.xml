@@ -1073,7 +1073,7 @@
     <string name="login_server_text">Как и у электронной почты, у учётных записей один дом, не смотря на это вы можете общаться с кем угодно</string>
     <string name="login_server_modular_text">Премиум-хостинг для организаций</string>
     <string name="login_server_modular_learn_more">Узнать больше</string>
-    <string name="login_server_other_title">Другой</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_other_text">Пользовательские и расширенные настройки</string>
     <string name="login_continue">Продолжить</string>
     <string name="login_connect_to">Подключиться к %1$s</string>

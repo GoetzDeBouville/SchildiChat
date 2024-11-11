@@ -1073,7 +1073,7 @@ Di masa mendatang proses verifikasi ini akan dimutakhirkan.</string>
     <string name="login_social_continue_with">Lanjutkan dengan %s</string>
     <string name="login_social_continue">Atau</string>
     <string name="login_server_other_text">Pengaturan kustom &amp; lanjutan</string>
-    <string name="login_server_other_title">Lainnya</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_modular_learn_more">Pelajari lebih lanjut</string>
     <string name="login_server_modular_text">Hosting premium untuk organisasi</string>
     <string name="login_server_matrix_org_text">Bergabung dengan jutaan orang secara gratis di server publik terbesar</string>

@@ -87,25 +87,13 @@ class LoginServerUrlFormFragment :
     }
 
     private fun setupUi(state: LoginViewState) {
-        when (state.serverType) {
-            ServerType.EMS -> {
-                views.loginServerUrlFormIcon.isVisible = true
-                views.loginServerUrlFormTitle.text = getString(CommonStrings.login_connect_to_modular)
-                views.loginServerUrlFormText.text = getString(CommonStrings.login_server_url_form_modular_text)
-                views.loginServerUrlFormLearnMore.isVisible = true
-                views.loginServerUrlFormHomeServerUrlTil.hint = getText(CommonStrings.login_server_url_form_modular_hint)
-                views.loginServerUrlFormNotice.text = getString(CommonStrings.login_server_url_form_modular_notice)
-            }
-            else -> {
-                views.loginServerUrlFormIcon.isVisible = false
-                views.loginServerUrlFormTitle.text = getString(CommonStrings.login_server_other_title)
-                views.loginServerUrlFormText.text = getString(CommonStrings.login_connect_to_a_custom_server)
-                views.loginServerUrlFormLearnMore.isVisible = false
-                views.loginServerUrlFormHomeServerUrlTil.hint = getText(CommonStrings.login_server_url_form_other_hint)
-                views.loginServerUrlFormNotice.text = getString(CommonStrings.login_server_url_form_common_notice)
-            }
-        }
-        val completions = state.knownCustomHomeServersUrls + if (buildMeta.isDebug) listOf("http://10.0.2.2:8080") else emptyList()
+        views.loginServerUrlFormIcon.isVisible = false
+        views.loginServerUrlFormTitle.text = getString(CommonStrings.login_server_other_title)
+        views.loginServerUrlFormText.text = getString(CommonStrings.login_connect_to_a_custom_server)
+        views.loginServerUrlFormLearnMore.isVisible = false
+        views.loginServerUrlFormHomeServerUrlTil.hint = getText(CommonStrings.login_server_url_form_other_hint)
+        views.loginServerUrlFormNotice.text = getString(CommonStrings.login_server_url_form_common_notice)
+        val completions = state.knownCustomHomeServersUrls + if (buildMeta.isDebug) listOf("https://cht.skryty.ru/") else emptyList()
         views.loginServerUrlFormHomeServerUrl.setAdapter(
                 ArrayAdapter(
                         requireContext(),
@@ -116,6 +104,10 @@ class LoginServerUrlFormFragment :
         views.loginServerUrlFormHomeServerUrlTil.endIconMode = TextInputLayout.END_ICON_DROPDOWN_MENU
                 .takeIf { completions.isNotEmpty() }
                 ?: TextInputLayout.END_ICON_NONE
+
+        if (completions.isNotEmpty()) {
+            views.loginServerUrlFormHomeServerUrl.setText(completions[0], false)
+        }
     }
 
     private fun learnMore() {

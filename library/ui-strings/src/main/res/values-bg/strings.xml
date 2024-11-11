@@ -1023,7 +1023,7 @@
     <string name="login_server_matrix_org_text">Присъединете се безплатно към милиони други на най-големия публичен сървър</string>
     <string name="login_server_modular_text">Премиум хостинг за организации</string>
     <string name="login_server_modular_learn_more">Научи повече</string>
-    <string name="login_server_other_title">Друго</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_other_text">Собствени и разширени настройки</string>
     <string name="login_continue">Продължи</string>
     <string name="login_connect_to">Свържи се с %1$s</string>

@@ -1060,7 +1060,7 @@
     <string name="login_server_text">Como el correo electrónico, las cuentas tienen un hogar, aunque se puede hablar con cualquiera</string>
     <string name="login_server_modular_text">Alojamiento de pago para organizaciones</string>
     <string name="login_server_modular_learn_more">Saber más</string>
-    <string name="login_server_other_title">Otro</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_other_text">Ajustes avanzados y de personalización</string>
     <string name="login_continue">Continuar</string>
     <string name="login_connect_to">Conectarse a %1$s</string>

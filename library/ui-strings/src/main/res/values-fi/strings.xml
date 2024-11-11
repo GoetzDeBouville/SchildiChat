@@ -1017,7 +1017,7 @@
     <string name="login_server_matrix_org_text">Liity veloituksetta miljoonien joukkoon suurimmalla julkisella palvelimella</string>
     <string name="login_server_modular_text">Korkealuokkaista isännöintiä organisaatioille</string>
     <string name="login_server_modular_learn_more">Lue lisää</string>
-    <string name="login_server_other_title">Muut</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_other_text">Mukautetut ja monimutkaiset asetukset</string>
     <string name="login_continue">Jatka</string>
     <string name="login_connect_to">Yhdistä palvelimeen %1$s</string>

@@ -42,6 +42,7 @@
                 android:layout_marginTop="@dimen/layout_vertical_margin"
                 android:gravity="start"
                 android:textColor="?vctr_content_secondary"
+                android:visibility="invisible"
                 tools:text="@string/login_server_url_form_modular_text" />
 
             <TextView
@@ -51,7 +52,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="4dp"
                 android:text="@string/login_server_modular_learn_more"
-                android:textColor="?colorPrimary" />
+                android:textColor="?colorPrimary"
+                android:visibility="invisible" />
 
             <com.google.android.material.textfield.TextInputLayout
                 android:id="@+id/loginServerUrlFormHomeServerUrlTil"

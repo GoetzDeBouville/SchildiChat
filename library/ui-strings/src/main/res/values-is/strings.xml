@@ -1200,7 +1200,7 @@
     <string name="login_social_signin_with">Skrá inn með %s</string>
     <string name="login_social_continue_with">Halda áfram með %s</string>
     <string name="login_social_continue">Eða</string>
-    <string name="login_server_other_title">Annað</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_modular_learn_more">Kanna nánar</string>
     <string name="login_splash_already_have_account">Ég er nú þegar með notandaaðgang</string>
     <string name="login_splash_create_account">Stofna aðgang</string>

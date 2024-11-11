@@ -1004,7 +1004,7 @@ A Visszaállítási Kulcsot tartsd biztonságos helyen, mint pl. egy jelszókeze
     <string name="login_server_matrix_org_text">Csatlakozz a milliónyi felhasználóhoz ingyen a legnagyobb nyilvános szerveren</string>
     <string name="login_server_modular_text">Prémium szerver üzemeltetés szervezetek részére</string>
     <string name="login_server_modular_learn_more">Tudj meg többet</string>
-    <string name="login_server_other_title">Egyéni</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_other_text">Másik szerver cím megadása</string>
     <string name="login_continue">Folytatás</string>
     <string name="login_connect_to">Csatlakozás ide: %1$s</string>

@@ -1302,7 +1302,7 @@ Errore hau ${app_name}-en kontroletik kanpo dago. Ez dago Google konturik gailua
     <string name="login_server_matrix_org_text">Elkartu milioiekin aske zerbitzari publiko handienean</string>
     <string name="login_server_modular_text">Ordainpeko ostatatzea elkarteentzat</string>
     <string name="login_server_modular_learn_more">Ikasi gehiago</string>
-    <string name="login_server_other_title">Beste bat</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_other_text">Ezarpen pertsonalizatu eta aurreratuak</string>
 
     <string name="login_continue">Jarraitu</string>

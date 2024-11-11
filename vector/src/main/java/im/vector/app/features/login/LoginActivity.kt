@@ -106,7 +106,7 @@ open class LoginActivity : VectorBaseActivity<ActivityLoginBinding>(), UnlockedA
     }
 
     protected open fun addFirstFragment() {
-        addFragment(views.loginFragmentContainer, LoginSplashFragment::class.java)
+        addFragment(views.loginFragmentContainer, LoginServerUrlFormFragment::class.java)
     }
 
     private fun handleLoginViewEvents(loginViewEvents: LoginViewEvents) {

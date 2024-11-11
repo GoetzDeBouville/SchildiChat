@@ -741,7 +741,7 @@
     <string name="settings_dev_tools">Інструменти розробника</string>
     <string name="settings_security_prevent_screenshots_title">Запобігати знімкам екрана застосунку</string>
     <string name="upgrade_security">Доступне оновлення шифрування</string>
-    <string name="login_server_other_title">Інше</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_modular_learn_more">Докладніше</string>
     <string name="room_profile_section_security">Безпека</string>
     <string name="settings_security_and_privacy">Безпека й приватність</string>

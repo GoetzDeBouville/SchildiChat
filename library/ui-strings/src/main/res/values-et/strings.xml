@@ -628,7 +628,7 @@
     <string name="login_server_matrix_org_text">Liitu tasuta miljonite teistega suurimas avalikus Matrix\'i serveris</string>
     <string name="login_server_modular_text">Tasuline Matrix\'i majutusteenus organisatsioonidele</string>
     <string name="login_server_modular_learn_more">Lisateave</string>
-    <string name="login_server_other_title">Muud serverid</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_other_text">Kohandatud seadistused</string>
     <string name="login_continue">Jätka</string>
     <string name="login_connect_to">Ühenda koduserveriga %1$s</string>

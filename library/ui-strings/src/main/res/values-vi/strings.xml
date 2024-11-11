@@ -952,7 +952,7 @@
     <string name="login_social_continue_with">Tiếp tục với %s</string>
     <string name="login_social_continue">Hoặc</string>
     <string name="login_server_other_text">Thiết lập tùy chỉnh và nâng cao</string>
-    <string name="login_server_other_title">Khác</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_modular_learn_more">Xem thêm</string>
     <string name="login_server_text">Giống như tài khoản thư điện tử, tài khoản cần có nhà riêng, dù bạn có thể nói chuyện với bất kỳ ai</string>
     <string name="settings_troubleshoot_test_bing_settings_title">Thiết lập tùy chỉnh.</string>

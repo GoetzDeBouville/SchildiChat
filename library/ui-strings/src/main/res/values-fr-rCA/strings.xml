@@ -947,7 +947,7 @@
     <string name="login_social_continue_with">Poursuivre avec %s</string>
     <string name="login_social_continue">Ou</string>
     <string name="login_server_other_text">Paramètres personnalisés et avancés</string>
-    <string name="login_server_other_title">Autre</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_modular_learn_more">En savoir plus</string>
     <string name="login_server_modular_text">Hébergement premium pour les organisations</string>
     <string name="login_server_matrix_org_text">Rejoignez des millions de personnes gratuitement sur le plus grand serveur public</string>

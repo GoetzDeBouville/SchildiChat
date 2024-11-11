@@ -42,6 +42,7 @@ import im.vector.app.features.analytics.plan.UserProperties
 import im.vector.app.features.login.HomeServerConnectionConfigFactory
 import im.vector.app.features.login.LoginConfig
 import im.vector.app.features.login.LoginMode
+import im.vector.app.features.login.LoginViewEvents
 import im.vector.app.features.login.ReAuthHelper
 import im.vector.app.features.login.ServerType
 import im.vector.app.features.login.SignMode
@@ -478,7 +479,9 @@ class OnboardingViewModel @AssistedInject constructor(
                 // Request login flow here
                 handle(OnboardingAction.HomeServerChange.SelectHomeServer(matrixOrgUrl))
             ServerType.EMS,
-            ServerType.Other -> _viewEvents.post(OnboardingViewEvents.OnServerSelectionDone(action.serverType))
+            ServerType.Other -> {
+                _viewEvents.post(OnboardingViewEvents.OnServerSelectionDone(action.serverType))
+            }
         }
     }
 

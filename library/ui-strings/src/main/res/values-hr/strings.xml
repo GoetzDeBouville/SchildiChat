@@ -692,7 +692,7 @@
     <string name="login_server_matrix_org_text">Pridružite se milijunima koji su slobodni na najvećem javnom poslužitelju</string>
     <string name="login_server_modular_text">Plaćeno gošćenje za organizacije</string>
     <string name="login_server_modular_learn_more">Naučite više</string>
-    <string name="login_server_other_title">Drugo</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_other_text">Prilagođene i napredne postavke</string>
     <string name="login_continue">Nastavi</string>
     <string name="login_connect_to">Spoji se na %1$s</string>

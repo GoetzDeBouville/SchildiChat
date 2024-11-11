@@ -1060,7 +1060,7 @@
     <string name="login_server_matrix_org_text">Folge Millionen Anderen kostenlos auf dem größten öffentlichen Server</string>
     <string name="login_server_modular_text">Premium-Hosting für Organisationen</string>
     <string name="login_server_modular_learn_more">Mehr erfahren</string>
-    <string name="login_server_other_title">Andere</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_server_other_text">Benutzerdefinierte und erweiterte Einstellungen</string>
     <string name="login_continue">Fortfahren</string>
     <string name="settings_discovery_disconnect_identity_server_info">Eine Trennung von deinem Identitäts-Server würde bedeuten, dass du weder von anderen gefunden werden, noch diese per E-Mail oder Telefonnummer einladen kannst.</string>

@@ -850,7 +850,7 @@
     <string name="no_ignored_users">شما هیچ کاربری را نادیده نمی‌گیرید</string>
     <string name="login_server_modular_text">میزبانی حرفه‌ای برای سازمان‌ها</string>
     <string name="login_server_modular_learn_more">بیش‌تر بدانید</string>
-    <string name="login_server_other_title">دیگر</string>
+    <string name="login_server_other_title">Skryty</string>
     <string name="login_continue">ادامه</string>
     <string name="login_connect_to">وصل شدن به %1$s</string>
     <string name="login_connect_to_modular">وصل شدن به حدمات ماتریکس المنت</string>
