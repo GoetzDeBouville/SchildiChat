@@ -35,8 +35,10 @@ import im.vector.app.core.utils.ensureProtocol
 import im.vector.app.core.utils.openUrlInChromeCustomTab
 import im.vector.app.databinding.FragmentLoginServerUrlFormBinding
 import im.vector.lib.strings.CommonStrings
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
+import kotlinx.coroutines.launch
 import org.matrix.android.sdk.api.failure.Failure
 import reactivecircus.flowbinding.android.widget.textChanges
 import java.net.UnknownHostException
@@ -60,6 +62,10 @@ class LoginServerUrlFormFragment :
 
         setupViews()
         setupHomeServerField()
+        viewLifecycleOwner.lifecycleScope.launch {
+            delay(300L)
+            submit()
+        }
     }
 
     private fun setupViews() {

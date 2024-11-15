@@ -45,6 +45,7 @@ class LoginSignUpSignInSelectionFragment :
         super.onViewCreated(view, savedInstanceState)
 
         setupViews()
+        signIn()
     }
 
     private fun setupViews() {
